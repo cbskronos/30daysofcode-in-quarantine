@@ -9,9 +9,8 @@ Find factorial of a given number using iterative approach.
 ### Some Common references, i'll keep on updating this area as we proceed.
 
 - #### Resources to understand GitHub WorkFlow
-
- -- [doc](https://guides.github.com/introduction/flow/)
- -- [Video](https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL)
+    - [doc](https://guides.github.com/introduction/flow/)
+    - [Video](https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL)
  
 
 ### Warmup questions
