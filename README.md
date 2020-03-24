@@ -1,5 +1,5 @@
 ## Hey mates
-This is the place to lookout for questions and solutions of #30DaysOfCode challenge, i'll keep on adding a new question everyday and solution to the question of previous day.
+This is the place to lookout for questions and solutions of #30DaysOfCode challenge, i'll keep on adding a new question everyday and solution of the question of previous day.
 
 
 ### Question 1 `(Day 1)`
