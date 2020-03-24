@@ -6,8 +6,8 @@ This is the place to lookout for questions and solutions of #30DaysOfCode challe
 
 #### Resources to understand GitHub WorkFlow
 
-[doc](https://guides.github.com/introduction/flow/)
-[Video](https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL)
+[doc] (https://guides.github.com/introduction/flow/)
+[Video] (https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL)
 
 ```
 
@@ -18,4 +18,4 @@ This is the place to lookout for questions and solutions of #30DaysOfCode challe
 
 ### Question 1(Day 1) [25-march-2020]
 
-~~~Coming Soon~~~
+`Coming Soon`
