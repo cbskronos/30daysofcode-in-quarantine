@@ -1,29 +1,14 @@
 ## Hey mates
-
-I hope you're all doing well.
-### Markdown
-
 This is the place to lookout for questions and solutions of #30DaysOfCode challenge, i'll keep on adding a new question everyday and solution to the question of previous day.
 
-```markdown
-Some Resources to checkout
+### Some Common Queries
+```
+### Some Common references, i'll keep on updating this area as we proceed.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Question 1(Day 1) [25-march-2020]
 
