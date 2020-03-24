@@ -10,10 +10,9 @@ This is the place to lookout for questions and solutions of #30DaysOfCode challe
  
 
 ### Warmup questions
-- Find factorial of a given number (use iterative approach)
-- check whether a string is palindrome or not (use iterative approach)
-- Find sum of elements of n-dimensional array, where n should be taken by user
+- Find sum of elements of 1-dimensional array.
 
-### Question 1(Day 1) `Coming Soon`
+### Question 1 `(Day 1)`
 
+Find factorial of a given number using iterative approach.
 
