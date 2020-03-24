@@ -5,8 +5,8 @@ This is the place to lookout for questions and solutions of #30DaysOfCode challe
 
 #### Resources to understand GitHub WorkFlow
 
- - [doc] (https://guides.github.com/introduction/flow/)
- - [Video] (https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL)
+ - ![doc] (https://guides.github.com/introduction/flow/)
+ - ![Video] (https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL)
  - http://github.com - automatic!
 [GitHub](http://github.com)
 
