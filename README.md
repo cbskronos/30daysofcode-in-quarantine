@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Hey mates
 
-You can use the [editor on GitHub](https://github.com/Utkarsh1999/30daysofcode-in-quarantine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I hope you're all doing well.
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is the place to lookout for questions and solutions of #30DaysOfCode challenge, i'll keep on adding a new question everyday and solution to the question of previous day.
 
 ```markdown
-Syntax highlighted code block
+Some Resources to checkout
 
 # Header 1
 ## Header 2
@@ -28,7 +25,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Question 1(Day 1) [25-march-2020]
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Utkarsh1999/30daysofcode-in-quarantine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
