@@ -1,1 +1,2 @@
-### Solutions of Day2
+## Solutions of Day2
+
