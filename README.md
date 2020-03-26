@@ -9,6 +9,9 @@ This is the place to lookout for questions and solutions of #30DaysOfCode challe
 ### Question 2 `(Day 2)` [`Solution`](https://cbskronos.github.io/30daysofcode-in-quarantine/day2/solutions.html)
 - Find a element in an array of size 'n' in not more than n/2 operations using linear search algorithm.
 
+### Question 3 `(Day 3)` 
+- Given an array, find 2 numbers whose sum is closest to zero.
+
 ### Some Common references, i'll keep on updating this area as we proceed.
 
 - #### Resources to understand GitHub WorkFlow
