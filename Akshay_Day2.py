@@ -1,25 +1,33 @@
 def linear_search(list,n):
-    p=len(list)
-    u=int(len(list)/2)
-    for i in range(0,u):
+    flag=0
+    length=len(list)
+    h_length=int(len(list)/2)
+    if length%2!=0:
+        h_length=h_length+1
+    for i in range(0,h_length):
         if list[i]==n:
-            return 1
-        elif list[p-i-1]==n:
-            return 1
-    return 0
+            flag=1
+            break
+        elif list[length-i-1]==n:
+            flag=1
+            break
+    if flag==1:
+        print("Element found")
+    else:
+        print("Element not found")
         
-n=input("Enter the elements: ")
+array=input("Enter the elements: ")
 
-list=n.split()
+list_num=list(map(int,array.split()))
 
-print("List is: ",list)
+print("List is: ",list_num)
 
-x=int(input("Enter the element: "))
+search_element=int(input("Enter the element: "))
 
-if(linear_search(list,x)):
-    print("Element found")
-else:
-    print("Element not found")
+linear_search(list_num,search_element)
+
+
+
         
             
                 
