@@ -1,30 +1,22 @@
 def linear_search(list,n):
     p=len(list)
     u=int(len(list)/2)
+    count =0;
     for i in range(0,u):
         if list[i]==n:
-            return 1
+            return i
         elif list[p-i-1]==n:
-            return 1
-    return 0
+            return i
+    return -1
         
-n=input("Enter the elements: ")
 
-list=n.split()
+list = [1,2,3,4,5,6,7,8]
 
 print("List is: ",list)
 
 x=int(input("Enter the element: "))
-
-if(linear_search(list,x)):
-    print("Element found")
+count_iter = linear_search(list,x) 
+if(count_iter > -1):
+    print("Element found in ",count_iter," iterations")
 else:
     print("Element not found")
-        
-            
-                
-            
-                
-        
-            
-    
