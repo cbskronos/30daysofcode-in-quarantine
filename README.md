@@ -6,7 +6,7 @@ This is the place to lookout for questions and solutions of #30DaysOfCode challe
 
 - Find factorial of a given number using iterative approach.
 
-### Question 2 `(Day 2)`
+### Question 2 `(Day 2)` [`Solution`](https://cbskronos.github.io/30daysofcode-in-quarantine/day2/solutions.html)
 - Find a element in an array of size 'n' in not more than n/2 operations using linear search algorithm.
 
 ### Some Common references, i'll keep on updating this area as we proceed.
