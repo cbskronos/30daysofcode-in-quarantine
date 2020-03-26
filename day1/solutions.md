@@ -1,51 +1,29 @@
 ## Day1 Solutions
 
-### Q) Find factorial of a given number using iterative approach.
-
-##### Solution submitted by [Manan Bedi](https://github.com/manan-bedi2908) `Python`
-```python
-def factorial(num):
-    fact = 1
-    while(num>1):
-        fact = fact * num
-        num = num - 1
-    return fact
-
-print("Enter The Number whose factorial you want to find: ")
-num = int(input())
-print(factorial(num))
-```
+### Q) Find a element in an array of size ‘n’ in not more than n/2 operations using linear search algorithm.
 
 ##### Solution submitted by [Akshay Sharma](https://github.com/akshay2742) `Python`
 ```python
-def fact(num):
-    fact=1
-    
-    for number in range(num,1,-1):
-        fact=fact*number
-    
-    return fact
+def linear_search(list,n):
+    p=len(list)
+    u=int(len(list)/2)
+    count =0;
+    for i in range(0,u):
+        if list[i]==n:
+            return i
+        elif list[p-i-1]==n:
+            return i
+    return -1
+        
 
-number=int(input("Enter the number\n"))
+list = [1,2,3,4,5,6,7,8]
 
-factorial=fact(number)
+print("List is: ",list)
 
-print("Factorial is "+str(factorial))
-```
-
-##### Solution submitted by [Aditya](https://github.com/paditya99) `C++`
-```c++
-#include <iostream>
-using namespace std;
-
-int main()
-{
-   int a,result=1;
-   cout<<"Enter the number of which you want to find the factorial: ";
-   cin>>a;
-   for(int i=a;i>=2;i--){
-      result=result*i; 
-   }
-   cout<<"Factorial of "<<a<<" is: "<<result;
-} 
+x=int(input("Enter the element: "))
+count_iter = linear_search(list,x) 
+if(count_iter > -1):
+    print("Element found in ",count_iter," iterations")
+else:
+    print("Element not found")
 ```
