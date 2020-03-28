@@ -2,7 +2,7 @@
 
 ### Q) Given an array find 2 numbers whose sum is closest to zero.
 
-##### Solution submitted by [Manan Bedi](https://github.com/manan-bedi2908) `Python`
+##### Solution submitted by [Manan Bedi](https://github.com/manan-bedi2908) `C++`
 ```c++
 #include<iostream>
 #include<algorithm> // for sort function, contains Standard Template Library (STL)
