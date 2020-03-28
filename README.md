@@ -13,7 +13,7 @@ This is the place to lookout for questions and solutions of #30DaysOfCode challe
 - Given an array, find 2 numbers whose sum is closest to zero.
 
 ### Question 4 `(Day 4)`
--Implement Bubble sort and Insertion sort, compare number of comparisons. 
+- Implement Bubble sort and Insertion sort, compare number of comparisons. 
 
 ### Some Common references, i'll keep on updating this area as we proceed.
 
